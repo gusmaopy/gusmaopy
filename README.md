@@ -1,4 +1,3 @@
-# readme
 
 ### Olá! Gusmão Jr o acolhe para que juntos possamos codar e mudar o mundo 🖐️!
 
